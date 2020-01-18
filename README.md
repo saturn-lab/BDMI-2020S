@@ -1,14 +1,14 @@
-# BDMI-2019A
+# BDMI-2020Spring
 
 ## 教学计划 
 
-https://github.com/saturn-lab/BDMI-2019A/wiki
+https://github.com/saturn-lab/BDMI-2020Spring/wiki
 
 ## 教师与助教
 
 Instructors: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/), [Xin Lu](https://www.linkedin.com/in/luxin433/), Min Guo
 
-TAs: Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
+TAs: Rui Xie, Shiyu Huang
 
 ## 目录结构
 
