@@ -6,7 +6,7 @@ https://github.com/saturn-lab/BDMI-2020Spring/wiki
 
 ## 教师与助教
 
-Instructors: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/), [Xin Lu](https://www.linkedin.com/in/luxin433/), Min Guo
+Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)
 
 TAs: Rui Xie, Shiyu Huang
 
