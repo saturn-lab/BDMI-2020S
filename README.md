@@ -8,11 +8,12 @@ https://github.com/saturn-lab/BDMI-2020Spring/wiki
 
 Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)
 
-TAs: Rui Xie, Shiyu Huang
+TAs: Rui Xie, [Shiyu Huang](http://huangshiyu.me)
 
 ## 目录结构
 
 - Computing/ 计算基础与python学习
+- Logistics/ 签到与团队建设
 - ML-BD-Algo 算法-数据管理-机器学习材料（思路）
 - Weeks/WWn/ 第n次课的课件和参考代码
 - Course-Projects/ 课程实践任务
