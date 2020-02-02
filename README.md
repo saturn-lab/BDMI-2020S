@@ -45,3 +45,6 @@ http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/AI云
 - 有微积分，线性代数，概率论基础
 - 上课需要自带笔记本电脑
 - 有一定数据库基础
+
+## 反馈
+I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
