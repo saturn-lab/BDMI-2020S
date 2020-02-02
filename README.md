@@ -28,10 +28,6 @@ TAs: Rui Xie, [Shiyu Huang](http://huangshiyu.me)
 - SQL, Tensorflow, Haskell
 
 
-## 课程相关问题和建议
-
-课程相关问题和建议请在该仓库的Issues下面提出，有老师和助教进行解答。
-
 ## 申请使用GPU
 
 对有GPU使用需要的同学，可以通过这个链接申请使用GPU资源（只限校内访问）：
@@ -46,5 +42,8 @@ http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/AI云
 - 上课需要自带笔记本电脑
 - 有一定数据库基础
 
-## 反馈
+## 课程相关问题和建议
+
+课程相关问题和建议请在该仓库的Issues下面提出，有老师和助教进行解答。
+
 I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
