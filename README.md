@@ -8,7 +8,7 @@ https://github.com/saturn-lab/BDMI-2020Spring/wiki
 
 Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)
 
-TAs: Rui Xie, [Shiyu Huang](http://huangshiyu.me)
+TAs: Rui Xie, [Shiyu Huang](https://huangshiyu13.github.io/)
 
 ## 目录结构
 
