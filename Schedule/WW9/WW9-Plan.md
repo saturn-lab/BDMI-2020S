@@ -9,5 +9,5 @@ Bring Your Laptop  and Smart Phone to Class.
 |   3       |  [卷积网络/循环网络](1CNN_RNN.pdf)  |               |           |         |
 |   5       | [语音识别ASR](3ASR.pdf) |   讲课     |        |           |
 |   7       |  [AudioRec](../../Course-Projects/speech-recog)    |   实践    |    CZ    |         |
-|   8       |  语音识别实践    |  实践     |   Gao    |         |
+|   8       |  语音识别实践    |  实践     |   TAs    |         |
 |   9       |  课程小结，[展望下节课](../WW10/WW10-Plan.md)       |     |  CZ |   |
