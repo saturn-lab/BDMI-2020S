@@ -6,7 +6,7 @@
 
 ## 完成步骤
 * 请同学们使用markdown格式简单写一段自我介绍，命名为`{ID}.md`，上传到该文件夹中。
-* roaster.md为索引文件，请同学们上传好自己的`{ID}.md`后，在roaster.md中增加一行指向自己自我介绍文件的链接。
+* roaster.md为索引文件，请同学们上传好自己的`{ID}.md`后，在[roaster.md](roaster.md "点击打开该文件")中增加一行指向自己自我介绍文件的链接。
 ## 注意事项
 * 可以使用GitHub直接在线编辑，也可以使用git程序push到仓库。
 * 使用git程序push的时候，请注意不要弄错文件的位置或者删除文件。可以在执行`git commit -m`命令前使用`git status`查看一下本次commit将对远程仓库进行的更改。确认无误后可以执行`git commit -m`命令并`git push`。
