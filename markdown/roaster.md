@@ -5,3 +5,4 @@ BDMI 课程名单
 |   1   |    [1-intro](1.md)      |
 |   2    |    [2-intro](2.md)                      |
 
+|   61    |    [61-intro](61.md)                      |
