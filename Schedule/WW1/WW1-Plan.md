@@ -12,7 +12,7 @@ Bring Your Laptop to Class.
 |   5       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |        |
 |   6       | Python编程语言     |  讲课    |    CZ    |        |
 |   7       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
-|   8       | Python 计算Pi     |  讲课    |     Huang     |         |
+|   8       | Python 计算Pi([notebook](https://github.com/saturn-lab/BDMI-2020S/blob/master/Computing/learnPython3/PI_Python/calculate_pi.ipynb))     |  讲课    |     Huang     |         |
 |   9       | Python练习1  ``cal_pi.py``    |  实践    |     CZ&TAs     |         |
 |   10       | 两大数相乘，算法思想     |  讲课    |     CZ     |         |
 |   11       | 学习小结.md 上交至[Study-Memo](../../Study-Memo)    |  实践    |     CZ&TAs     |   最迟至2月26日下午1点      |
