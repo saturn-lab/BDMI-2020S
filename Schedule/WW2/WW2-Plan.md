@@ -14,8 +14,10 @@ Bring Your Laptop to Class.
 |   9       | [课后作业1](../../Course-Projects/Course_Project_2/Course_Project_2.md)    |  实验介绍与判题    |     huang     |         |
 
 optional
+
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: ||   7       | Haskell程序设计，计算Pi值       |  实践    |     TAs    |         |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   7       | Haskell程序设计，计算Pi值       |  实践    |     TAs    |         |
 |   8       | [排序算法-Haskell语言实现](Sorting_Algorithms_Haskell/)       |  讲课    |     GuoM     |         |
 
 
