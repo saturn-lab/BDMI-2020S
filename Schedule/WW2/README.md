@@ -1,6 +1,6 @@
 # 本节内容
 
-- 回顾基本的排序算法，
+- 算法基础、大数相乘
 
 - 基本排序算法：InsertionSort, QuickSort, MergeSort, BucketSort 等。
 
