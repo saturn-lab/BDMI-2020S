@@ -26,7 +26,7 @@ Bring Your Laptop to Class.
 |   2       |   [QuickSort & BucketSort](排序算法.pdf)      |  讲课    |     Huang     |         |
 |   3       |     [QuickSort](../../ML-BD-Algo/cs161-2018/lecture5_quicksort.ipynb) 和[BucketSort](../../ML-BD-Algo/cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
 |   4       |  基本查找结构: Binary Search Tree, Hashing.    |  讲课    |     CZ     |         |
-|   5       |     [Hashing](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     TAs     |         |
+|   5       |     [Hashing](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     Xie     |         |
 |   6       |    Red-Black Tree, 2-3-4 Tree, B+ tree    |  讲课    |     CZ     |         |
 |   7       |       |  实践    |     TAs     |  
 |   8       | 中值与选择（Median & Selection）      |  讲课    |     CZ     |         |
