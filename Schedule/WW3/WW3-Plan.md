@@ -20,11 +20,11 @@ Bring Your Laptop to Class.
 |   1       | 基本数据结构: Unsorted [Linked List](../../ML-BD-Algo/linked-list-test.ipynb) --> Sorted Linked List |  讲课、实践   |     CZ  |   data structure      |
 |   2       |  基本查找结构: Binary Search Tree, 2-3-4 Tree.    |  讲课    |     CZ     |         |
 |   3       | [Binary Search Tree实验](../../ML-BD-Algo/BST.ipynb)   |  实践    |     CZ     |         |
-|   4       | Binary Search Tree -->  [2-3-4 Tree](2-3-4-Tree.pdf) --->   |  实践    |     TAs     |  (Base of Data System)     |
-|   5       | [Red-Black Tree (Sorted)](https://www.cs.princeton.edu/~rs/talks/LLRB/)      |  讲课    |     CZ     |         |
+|   4       | Binary Search Tree -->  [2-3-4 Tree](2-3-4-Tree.pdf)    |  实践    |     TAs     |  (Base of Data System)     |
+|   5       | 2-3-4 Tree-->[Red-Black-Tree(Sorted)](https://www.cs.princeton.edu/~rs/talks/LLRB/)    |  讲课    |     CZ     |         |
 |   6       |  Red-Black Tree, LLRB(Left-leaning Red-Black Tree), [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |    |
 |   7       | [Red-Black Tree实验](../../ML-BD-Algo/RBTrees.ipynb)    |  实践    |     CZ     |    |
-
+|   8       | 总结本节课，展望[下节课](../WW4/WW4-Plan.md)      |  讲课    |     CZ     |         |
 
 # Plan two
 
