@@ -17,7 +17,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       |  基本数据结构: Unsorted [Linked List](linked-list-test.ipynb) --> Sorted Linked List |  讲课、实践   |     CZ  |         |
+|   1       |  基本数据结构: Unsorted [Linked List](linked-list-test.ipynb) --> Sorted Linked List |  讲课、实践   |     CZ  |   data structure      |
 |   2       |  基本查找结构: Binary Search Tree, 2-3-4 Tree.    |  讲课    |     CZ     |         |
 |   3       |  [Binary Search Tree实验](../../ML-BD-Algo/BST.ipynb)   |  实践    |     CZ     |         |
 |   4       |  Binary Search Tree -->  [2-3-4 Tree](2-3-4-Tree.pdf) --->   |  实践    |     TAs     |  (Base of Data System)     |
