@@ -39,8 +39,6 @@ Optional
 |   2       | 实验[Median & Selection算法](../../ML-BD-Algo/cs161-2018/lecture4_median_selection.ipynb)       |  实践    |     TAs     |         |
 
 
-
-
 # Plan two
 
 Bring Your Laptop to Class. 
@@ -52,7 +50,9 @@ Bring Your Laptop to Class.
 | 2      |              课堂小游戏               |    团建     | CZ&TAs |      |
 | 3      | [Python3语言基础-1](Python3-Basic-1.md) | 讲课与实践  |   CZ   |      |
 | 4      | [Math in Markdown](math-md.md) |   实践   |   TAs   |      |
-| 5      |               [Numpy](https://numpy.org/), [Stanford-CS231n-numpy](http://cs231n.github.io/python-numpy-tutorial/).              | 讲课与实践     |   CZ   |      |
-| 6      |            [TensorFlow](https://tensorflow.google.cn) , TensorFlow示例            | 讲课与实践     |   TAs   |      |
-| 7      |            TensorFlow示例            | 讲课与实践     |   CZ&TAs   |      |
+| 5      | [Numpy](https://numpy.org/), [Stanford-CS231n-numpy](http://cs231n.github.io/python-numpy-tutorial/).  | 讲课与实践     |   CZ   |      |
+| 6      |  [TensorFlow](https://tensorflow.google.cn) , TensorFlow示例            | 讲课与实践     |   TAs   |      |
+| 7      |  TensorFlow示例            | 讲课与实践     |   CZ&TAs   |      |
+
+
 大家注意：勿上传``有版权``的课程参考资料。
