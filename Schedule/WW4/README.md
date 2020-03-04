@@ -5,7 +5,7 @@
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       |  Hashing, Hashing  |  讲课    |     Xie     |  
 |   2       |  [Hashing](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     Xie     |         |
-|   3       |  Red-Black Tree, LLRB(Left-leaning Red-Black Tree), [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |    |
+|   3       |  [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |    |
 |   4       | 总结本节课，展望[下节课](../WW5/WW5-Plan.md)      |  讲课    |     CZ     |         |
 
 
