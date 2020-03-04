@@ -9,7 +9,7 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   0       | 课程签到     |  logistics   |     xie     |        |
-|   1       | 回顾上节课WW2(../WW2/WW2-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
+|   1       | 回顾上节课[WW2](../WW2/WW2-Plan.md), 介绍本节课内容     |  讲课    |     CZ     |         |
 |   2       |  [QuickSort & BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     Huang     |         |
 |   3       |  [QuickSort](../../ML-BD-Algo/cs161-2018/lecture5_quicksort.ipynb) 和[BucketSort](../../ML-BD-Algo/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践    |     TAs     |         |
 |   4       |  [复杂度记号](./%E5%A4%8D%E6%9D%82%E5%BA%A6%E8%AE%B0%E5%8F%B7.pdf) & [BucketSort](../WW4#%E6%A1%B6%E6%8E%92%E5%BA%8F%E8%AF%BE%E4%BB%B6)      |  讲课    |     Huang     |   Algorithm      |
