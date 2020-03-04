@@ -9,15 +9,27 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   0       | 课程签到     |  logistics   |     xie     |        |
-|   1       | 回顾上节课，介绍本节课内容     |  讲课    |     CZ     |         |
+|   1       | 回顾上节课WW2(../WW2/WW2-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 |   2       |  [QuickSort & BucketSort](./Sorting%20Algorithms.pdf)      |  讲课    |     Huang     |         |
 |   3       |  [QuickSort](../../ML-BD-Algo/cs161-2018/lecture5_quicksort.ipynb) 和[BucketSort](../../ML-BD-Algo/cs161-2018/lecture6_bucketSort.ipynb)实验  |  实践    |     TAs     |         |
-|   4       |  基本查找结构: Binary Search Tree, 2-3-4 Tree.    |  讲课    |     CZ     |         |
-|   5       |  [Binary Search Tree实验](../../ML-BD-Algo/BST.ipynb)   |  实践    |     CZ     |         |
-|   6       |  Red-Black Tree, LLRB(Left-leaning Red-Black Tree), B+ tree    |  讲课    |     CZ     |    |
+|   4       |  [复杂度记号](./%E5%A4%8D%E6%9D%82%E5%BA%A6%E8%AE%B0%E5%8F%B7.pdf) & [BucketSort](../WW4#%E6%A1%B6%E6%8E%92%E5%BA%8F%E8%AF%BE%E4%BB%B6)      |  讲课    |     Huang     |   Algorithm      |
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+|   1       |  基本数据结构: Unsorted [Linked List](linked-list-test.ipynb) --> Sorted Linked List |  讲课、实践   |     CZ  |         |
+|   2       |  基本查找结构: Binary Search Tree, 2-3-4 Tree.    |  讲课    |     CZ     |         |
+|   3       |  [Binary Search Tree实验](../../ML-BD-Algo/BST.ipynb)   |  实践    |     CZ     |         |
+|   4       |  Binary Search Tree -->  [2-3-4 Tree](2-3-4-Tree.pdf) --->   |  实践    |     TAs     |  (Base of Data System)     |
+|   5       | [Red-Black Tree (Sorted)](https://www.cs.princeton.edu/~rs/talks/LLRB/)      |  讲课    |     CZ     |         |
+|   6       |  Red-Black Tree, LLRB(Left-leaning Red-Black Tree), [B+ tree](../../ML-BD-Algo/cs245-2017/CS245-Notes4-B-trees.pdf)    |  讲课    |     CZ     |    |
+
+
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   7       |  Hashing, Hashing  |  讲课    |     Xie     |  
 |   8       |  [Hashing](../../ML-BD-Algo/cs161-2018/Lecture8_hashing.ipynb)   |  实践    |     Xie     |         |
-|   9       | 总结本节课，展望下节课      |  讲课    |     CZ     |         |
+|   9       | 总结本节课，展望[下节课](../WW4/WW4-Plan.md)      |  讲课    |     CZ     |         |
 
 
 Optional
