@@ -18,7 +18,7 @@
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
 |   1      | Haskell程序设计，计算Pi值       |  实践    |     TAs    |         |
-|   2      | Haskell练习3 [排序算法-插入排序-Haskell语言实现](Sorting_Algorithms_Haskell/)       |  讲课    |     GuoM /Xie    |         |
+|   2      | Haskell练习3 [插入排序](Sorting_Algorithms_Haskell/)       |  讲课    |     GuoM /Xie    |         |
 |   3      | Haskell练习4 哈希表       |  讲课    |     GuoM /Xie    |         |
 
 
