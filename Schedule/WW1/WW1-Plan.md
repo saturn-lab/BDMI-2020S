@@ -25,7 +25,7 @@ Bring Your Laptop to Class.
 |   9       | Python练习1  ``cal_pi.py``    |  实践    |     CZ&TAs     |         |
 |   10       | 两大数相乘，算法思想     |  讲课    |     CZ     |         |
 |   11       | 学习小结.md 上交至[Study-Memo](../../Study-Memo)    |  实践    |     CZ&TAs     |   最迟至2月26日下午1点      |
-
+|   12       | [展望下节课](../WW2/WW2-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 
 
 大家注意：勿上传``有版权``的课程参考资料。
