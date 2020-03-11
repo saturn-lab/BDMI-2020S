@@ -17,13 +17,6 @@ Bring Your Laptop to Class.
 |   10       | 两大数相乘，算法思想     |  讲课    |     CZ     |         |
 |   11       | 学习小结.md 上交至[Study-Memo](../../Study-Memo)    |  实践    |     CZ&TAs     |   最迟至2月26日下午1点      |
 
-Optional 
-
-|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Haskell编程语言     |  讲课    |     Guo      |         |
-|   2       | GHCi安装软件 |  实践    |     TAs     |         |
-|   3       | Haskell练习1 ``doubleme.hs`` ``cal_pi.hs``    |  实践    |     CZ&TAs     |         |
 
 
 大家注意：勿上传``有版权``的课程参考资料。
