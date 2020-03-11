@@ -14,7 +14,8 @@ Link: https://github.com/saturn-lab/BDMI-2020Spring/blob/master/ML-BD-Algo/cs161
 
 Link: https://github.com/saturn-lab/BDMI-2020Spring/blob/master/ML-BD-Algo/cs161-2018/lecture4_median_selection.ipynb
 
-# Data Structure
+# Data Structure cont.
+
 Data item, node  
 
 Goal: Fast Search/Insert/Delete/Traversal 
@@ -40,7 +41,7 @@ $RBTree$
 
 ### B+ Tree
 
-# Data System
+# Data System Open-up
 
 Tree is the cornerstone of most Data System.    --who 
 
