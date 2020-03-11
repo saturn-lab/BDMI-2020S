@@ -6,7 +6,7 @@
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
 |   1      |  [回顾上节课](../WW4/WW4-Plan.md)，介绍本节课安排      |  讲课    |     CZ     |         |
 |   2      |  计算语言基础 [lambda calculus](lambda_calculus.md) |  讲课    |    CZ    |          |
-|   3      |  [lambda演算实践](../../Computing/lambda_calculus.ipynb) |  实践    |    LHT    |          |
+|   3      |  [lambda演算实践](../../Computing/lambda_calculus.ipynb) |  实践    |    CZ&TAs    |          |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
