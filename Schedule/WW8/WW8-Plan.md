@@ -11,7 +11,4 @@
 |   9       |  小结，[展望下节课](../WW9/WW9-Plan.md)    |        |     CZ     |         |
 
 
-# Claim: Each topic is a big area, be patient.  
-# 请认真整理每堂课的学习小结；
-
 大家注意：勿上传``有版权``的课程参考资料。
