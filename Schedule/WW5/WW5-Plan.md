@@ -9,7 +9,7 @@ Bring Your Laptop and smart phone  to Class.
 |   3       |  Why Data System?   |   讲课    |     CZ     |   Data System      |
 |   4       |  Overview of Relational   |   讲课    |     CZ     |   Data System      |
 |   5       |  SQL I   |   讲课    |     TAs     |         |
-|   6       |  [SQL-I](../../MI-DS-Algo/cs145-2018)    |   实践    |     TAs     |         |
+|   6       |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     TAs     |         |
 |   7       |  Review of Homework 1 [(Solution)](../../Course-Projects/Course_Project_2/hw1_solution.py)    |        |     huang     |         |
 |   8       |  小结，[展望下节课](../WW6/WW6-Plan.md)    |        |     CZ     |         |
 
