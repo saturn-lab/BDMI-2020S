@@ -9,10 +9,10 @@ Bring Your Laptop and smart phone  to Class.
 |   2       |  Why Data System?   |   讲课    |     CZ     |   Data System      |
 |   3       |  Overview of Relational   |   讲课    |     CZ     |   Data System      |
 |   4       |  SQL I   |   讲课    |     GM     |         |
-|   5       |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     TAs     |         |
-|   6       |  SQL II  |   讲课    |     TAs    |         |
-|   3       |  [SQL-II](../../ML-BD-Algo/cs145-2018/SQL-1-Activities/Lecture-3.ipynb)    |   实践    |     huang     |         |
-
+|   5       |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     WHY/TAs     |         |
+|   6       |  SQL II  |   讲课    |     huang    |         |
+|   7       |  [SQL-II](../../ML-BD-Algo/cs145-2018/SQL-1-Activities/Lecture-3.ipynb)    |   实践    |     huang/WHY     |         |
+|   8       |  [postgresql安装](http://postgresql.org)   |   实践    |     CZ/WHY     |   pg-->gp      |
 
 
 Optional
