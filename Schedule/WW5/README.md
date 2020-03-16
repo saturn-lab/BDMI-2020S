@@ -10,8 +10,6 @@
 
 **[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)**
 
-链接:https://pan.baidu.com/s/1g4HeBWgcfPh0nsfD0CwXxA  密码:j6fy
-
 ## SQL实践
 
 安装jupyter 插件ipython-SQL 
