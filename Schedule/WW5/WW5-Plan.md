@@ -13,13 +13,11 @@ Bring Your Laptop and smart phone  to Class.
 |   6       |  SQL II  |   讲课    |     huang    |         |
 |   7       |  [SQL-II](../../ML-BD-Algo/cs145-2018/SQL-1-Activities/Lecture-3.ipynb)    |   实践    |     huang/WHY     |         |
 |   8       |  [postgresql安装](http://postgresql.org)   |   实践    |     CZ/WHY/MXD     |   pg-->gp      |
-
-
-Optional
-|时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---      |   :----:    |   :----:    |    :----:    | ---: |
-|   7       |  Review of Homework 1 [(Solution)](../../Course-Projects/Course_Project_2/hw1_solution.py)    |        |     huang     |         |
 |   8       |  小结，[展望下节课](../WW6/WW6-Plan.md)    |        |     CZ     |         |
+
+
+
+
 
 
 
