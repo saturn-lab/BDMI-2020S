@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 |   3       |  Overview of Relational   |   讲课    |     CZ     |   Data System      |
 |   4       |  SQL I   |   讲课    |     GM     |         |
 |   5       |  [SQL-I](../../MI-DS-Algo/DS/cs145-2018)    |   实践    |     WHY/TAs     |         |
-|   6       |  SQL II  |   讲课    |     huang    |         |
+|   6       |  [SQL II](https://github.com/saturn-lab/BDMI-2020S/blob/master/Schedule/WW5/%E6%95%B0%E6%8D%AE%E5%BA%93(%E8%BF%9B%E9%98%B6)_v3.0.pdf)  |   讲课    |     huang    |         |
 |   7       |  [SQL-II](../../ML-BD-Algo/cs145-2018/SQL-1-Activities/Lecture-3.ipynb)    |   实践    |     huang/WHY     |         |
 |   8       |  [postgresql安装](http://postgresql.org)   |   实践    |     CZ/WHY/MXD     |   pg-->gp      |
 |   8       |  小结，[展望下节课](../WW6/WW6-Plan.md)    |        |     CZ     |         |
