@@ -21,13 +21,6 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 |   8   |  Review of Homework 1 [(Solution)](../../Course-Projects/Course_Project_2/hw1_solution.py)    |     |  huang  |    |
 |   9   | 课程小结，[展望下节课](../WW8/WW8-Plan.md) |      | CZ   |      |
 
-# Optional
-
-|时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---   |   :----:    |   :----:    |    :----:    | ---: |
-|  10   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf) | 讲课 | CZ   | Machine Intelligence (if time is enough) |
-|  11  | [tensorflow-v2](../../TensorFlow/TensorFlow-v2) \ [tfExample](https://github.com/saturn-lab/tfExample) | 实践 | TA   | TensorBoard |
-
 
 
 大家注意：勿上传``有版权``的课程参考资料。
