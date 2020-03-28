@@ -47,4 +47,8 @@ http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/AI云
 
 课程相关问题和建议请在该仓库的Issues下面提出，有老师和助教进行解答。
 
+## 
+
+This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
+
 I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
