@@ -14,7 +14,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | 8      | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍，小问题：分类螺旋线问题，截图发在微信群  |  实践   |  xie  |      |
 | 9      |       [tensorflow-v2](../../TensorFlow/TensorFlow-v2)        |    实践     |  TA   |      |
 | 10     |       DNN 全连接网络         |    实践     |  TA   |      |
-| 11     |        [卷积网络/循环网络](1CNN_RNN.pdf)               |    讲课     | huang |      |
+| 11     |        [卷积网络/循环网络](https://github.com/saturn-lab/BDMI-2020S/blob/master/Schedule/WW7/CNN_RNN.pdf)               |    讲课     | huang |      |
 | 12     |          课程小结，[展望下节课](../WW9/WW9-Plan.md)          |             |  CZ   |      |
 
 
