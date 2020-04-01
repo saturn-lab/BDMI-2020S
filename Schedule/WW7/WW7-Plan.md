@@ -5,7 +5,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 | 1      |       [回顾上节课](../WW7/WW7-Plan.md)，介绍本节课内容       |    讲课     |  CZ   |      |
-| 2      |      Numpy介绍     |  讲课与实践   |     GM     |        |
+| 2      |      [Numpy介绍](../../TensorFlow/numpy)     |  讲课与实践   |     GM     |        |
 | 3      |      深度学习1：人工神经元 |  讲课    |    GM    |         |
 | 4      |      activation Funcation: numpy实现 |  讲课，实践    |    xie    |         |
 | 8      | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍，小问题：分类螺旋线问题，截图发在微信群  |  实践   |  xie  |      |
