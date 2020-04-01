@@ -1,4 +1,6 @@
-建议大家安装tensorflow 2，下午屏幕录屏： （谢）
+# To-do List：
+
+建议大家安装tensorflow 2，下午屏幕录屏，截一下zoom上线用户的图： （谢）
 
 课后录屏上传到cloud上，统一发出。（谢）
 
