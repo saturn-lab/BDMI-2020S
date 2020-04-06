@@ -6,7 +6,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | :--- |   :----:    |   :----:    |    :----:    | ---: |
 |   1  |  [回顾上节课](../WW7/WW7-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |      |
 |   2  | TensorFlow-more |  讲课   |  GM  |    |
-|   3  | 卷积网络与循环网络  |   讲课    |  huang   |         |
+|   3  | [卷积网络与循环网络](https://github.com/saturn-lab/BDMI-2020S/blob/master/Schedule/WW7/CNN_RNN.pdf)  |   讲课    |  huang   |         |
 |   4  | 自动微分: Automatic Differential   | 讲课    |   Xie |         |
 |   5  | tensorflow-cnn-rnn    |   讲课    |   CZ    |         |
 |   5  | Python获取语音(pyAudio)与图像(opencv)    |   实践    |   WHY    |         |
