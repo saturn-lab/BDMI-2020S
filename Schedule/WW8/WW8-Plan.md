@@ -10,5 +10,5 @@ Bring Your Laptop  and Smart Phone to Class.
 |   4  | [卷积网络与循环网络](https://github.com/saturn-lab/BDMI-2020S/blob/master/Schedule/WW7/CNN_RNN.pdf)  |   讲课    |  huang   |         |
 |   5  | tensorflow-cnn-rnn    |   讲课    |   CZ    |         |
 |   5  | Python获取语音(pyAudio)与图像(opencv)    |   实践    |   WHY    |         |
-|   6  | ASR |  讲课    |  CZ |    |
+|   6  | ASR 原理与技术 |  讲课    |  CZ |    |
 |   7  |  课程小结，[展望下节课](../WW9/WW9-Plan.md)       |     |  CZ |   |
