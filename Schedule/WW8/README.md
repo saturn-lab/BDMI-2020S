@@ -1,30 +1,24 @@
 
-# Stanford Univ. reference course:
+# Reference courses from Stanford Univ. :
 
 ## CS 231n, 2019 Autumn
 
-Instructors: 
+CS231n: Convolutional Neural Networks for Visual Recognition
 
-Fei-Fei Li
-
-Justin Johnson
-
-Serena Yeung
+Instructors: Fei-Fei Li, Justin Johnson, Serena Yeung
 
 http://cs231n.stanford.edu/syllabus.html
 
 ## CS 230, 2019 Spring
 
-Instructors:
+CS230 Deep Learning
 
-Andrew Ng
-  
-Kian Katanforoosh
+Instructors: Andrew Ng, Kian Katanforoosh
 
 https://cs230.stanford.edu/syllabus/
 
 
-# 模型文件查看
+## 模型文件查看
 
 https://github.com/lutzroeder/netron
 
