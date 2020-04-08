@@ -12,6 +12,6 @@ Bring Your Laptop to Class.
 |  3  |  [语音识别ASR](3ASR.pdf) |   讲课     |     CZ   |           |
 |  4  |  [AudioRecg](AudioRecg.md)  |   实践    |    CZ    |         |
 |  5  |  语音识别实践    |  实践     |   TAs    |         | 
-|  6  |  课程小结，[展望下一节课](../WW10/WW10-Plan.md)   |   讲课    |     CZ&TAs     |       |
+|  6  |  课程小结，[展望下一节课](../../Weeks/WW10/WW10-Plan.md)   |   讲课    |     CZ&TAs     |       |
 
 \ [tfExample](https://github.com/saturn-lab/tfExample)
