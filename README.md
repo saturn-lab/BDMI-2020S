@@ -10,6 +10,10 @@ Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、
 
 TAs: Rui Xie, [Shiyu Huang](https://huangshiyu13.github.io/)
 
+## 教学内容
+
+[总体教学安排](Schedule/Schedule-BDMI-2020S.md)
+
 ## 目录结构
 
 - Computing/ 计算基础与python学习
