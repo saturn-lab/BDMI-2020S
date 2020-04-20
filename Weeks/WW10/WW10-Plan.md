@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 |   3       |  [AudioNet](https://github.com/saturn-lab/audioNet)     | 讲课演示  | Huang |   |
 |   4       |  TensorFlow-lite: AIoT     | 讲课  |  Wangxue/xie rui |   |
 |   4       |  [AndroidiAudioRecg](https://github.com/saturn-lab/androidAudioRecg)     | 讲课演示  | WHY |   |
-|   5       |  WWW-Project3    |   实践  |    Huang     |  启用github.io  |
+|   5       |  [GitHub Pages](https://pages.github.com/)    |   实践  |    Huang     |  启用github.io  |
 |   6       |  课程小结，[展望下节课](../WW11/WW11-Plan.md)   |     |  CZ |   |
 
 
