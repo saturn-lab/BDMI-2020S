@@ -1,19 +1,21 @@
-# 声控智能
+# 声控智能原理
 
-1	声控智能原理（1），深度学习TensorFlow库；多层感知机MLP；Dense层、卷积层和循环层；	
+1	声控智能原理（1），多层感知机MLP；Dense层、卷积层和循环层；
 
 2	声控智能原理（2），卷积神经网络CNN和循环神经网络RNN；
+
+3 声控智能原理（3），深度学习TensorFlow库，实现DNN, CNN,RNN.
 
 
 # 声控智能实践
 
 （1）语音指令录音：录音文件 audioPlot；
 
-audioPlot 项目：https://github.com/saturn-lab/audioPlot
+audioPlot项目：https://github.com/saturn-lab/audioPlot
 
 （2）模型训练：audioNet；
 
-audioNet项目2：https://github.com/saturn-lab/audioNet
+audioNet项目：https://github.com/saturn-lab/audioNet
 
 （3）模型文件验证与转化：asrModel.pb，启动推断网页；
 
