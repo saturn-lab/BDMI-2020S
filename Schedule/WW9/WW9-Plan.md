@@ -11,7 +11,7 @@ Bring Your Laptop to Class.
 |  5  |  ASR-CTC 原理与技术 |  讲课    |  Xie |    |
 |  6  |  语音识别与智能音箱产业  |   讲课     |     CZ   |           |
 |  7  |  TensorFlow-ASR语音识别实践    |  实践     |   WHY    |         | 
-|  8  |  [AudioRecg](AudioRecg.md)  |   实践    |    CZ    |         |
+|  8  |  [AudioRecg](Project-AudioRecg.md)  |   实践    |    CZ    |         |
 |  9  |  课程小结，[展望下一节课](../../Weeks/WW10/WW10-Plan.md)   |   讲课    |     CZ&TAs     |       |
 
 
