@@ -6,7 +6,7 @@ Bring Your Laptop and smart phone  to Class.
 | :---    |   :----:    |   :----:    |    :----:    |:--- |
 |   0     |  课程签到     |  logistics   |     xie     |        |
 |   1     |  [回顾上节课](../../Schedule/WW9/WW9-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |   A: git项目目录结构     |
-|   2     |  大数据业界：GreenPlum     | 讲课  | Yao |   |
+|   2     |  大数据业界：GreenPlum     | 讲课  | Yao |  45 min |
 |   3     |  [audioPlot](https://github.com/saturn-lab/audioPlot), [audioNet](https://github.com/saturn-lab/audioNet) 演示    | 讲课  | Huang |  20 min |
 |   4     |  [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 演示   | 讲课  | WHY |  20 min  |
 |   5     |  TensorFlow-lite: AIoT     | 讲课  |  Xie/Wang | 45 min  |
