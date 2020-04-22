@@ -9,4 +9,4 @@ or
 
 直接下载：http://ml.cs.tsinghua.edu.cn/~shiyu/d/BDMI/tfdata.pdf
 
-相应notebook:https://github.com/saturn-lab/BDMI-2019A/blob/master/Weeks/WW11/data.ipynb
+相应notebook:https://github.com/saturn-lab/BDMI-2020S/blob/master/Weeks/WW11/data.ipynb
