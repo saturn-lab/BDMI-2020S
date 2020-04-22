@@ -10,6 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 |   3   | 计算机视觉实践   |  讲课    |   WHY      |         |
 |   4   | [OpenCV-FaceDetect](https://github.com/saturn-lab/STIS-2020S/tree/master/IntelligentComputing/face-detect) | 实践 |  WHY  |    |
 |   5   | 对象检测CV-OD | 讲课   |  Huang |   |
+|   5   | [posenet-demo](poseNet.pdf)  |   XU        |      10min      ||
 |   6   | 安全帽检测项目介绍 |   讲解   |  xie|  |
 |   7   | tf.data[[课件]](tfdata.pdf)[[notebook]](data.ipynb) |   Huang        |        20min    |   |
 |   8   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
