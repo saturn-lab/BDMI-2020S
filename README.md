@@ -2,6 +2,8 @@
 
 ## 教学计划 
 
+[Schedule](Schedule/Schedule-BDMI-2020S.md)
+
 https://github.com/saturn-lab/BDMI-2020Spring/wiki
 
 ## 教师与助教
