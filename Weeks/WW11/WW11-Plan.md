@@ -12,7 +12,7 @@ Bring Your Laptop and smart phone  to Class.
 |   5   | 对象检测CV-OD | 讲课   |  Huang |   |
 |   5   | [posenet-demo](poseNet.pdf)  |   讲解       |    Xie    |  10 min |
 |   6   | 安全帽检测项目介绍 |   讲解   |  xie|  5 min  |
-|   7   | tf.data[[课件]](tfdata.pdf)[[notebook]](data.ipynb) |   Huang        |        20min    |   |
+|   7   | tf.data[[课件]](tfdata.pdf)[[notebook]](data.ipynb) |   讲解     |      Huang     |    20min   |
 |   8   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
 |   9   | 课程小结，[展望下节课](../WW12/WW12-Plan.md)  |     |  CZ |   |
 
