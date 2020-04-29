@@ -12,7 +12,7 @@ Bring Your Laptop and smart phone  to Class.
 |   5   | 对象检测CV-OD-1: Visual Task and Index | 讲课   |  Huang |  15 min  |
 |   5   | 对象检测CV-OD-2: R-CNN and Faster | 讲课   |  Huang |  15 min  |
 |   5   | 对象检测CV-OD-3: YOLO and SSD | 讲课   |  Huang |  15 min  |
-|   6   | 计算机视觉的姿态检测：[posenet-demo](poseNet.pdf)和[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  |   讲解       |    Xie    |  15 min |
+|   6   | 计算机视觉的姿态检测：[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 和 [posenet-demo](poseNet.pdf) |   讲解       |    Xie    |  15 min |
 |   7   | 计算机视觉硬件：[Jetson Nano](https://devblogs.nvidia.com/jetson-nano-ai-computing/), 智能小车[Jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/wiki) |  介绍    | GM  |   10 min   |
 |   8   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
 |   9   | 课程小结，[展望下节课](../WW12/WW12-Plan.md)  |     |  CZ |   |
