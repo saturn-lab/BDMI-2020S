@@ -17,3 +17,6 @@ Bring Your Laptop and smart phone  to Class.
 
 
 
+大家注意：勿上传``有版权``的课程参考资料。
+
+
