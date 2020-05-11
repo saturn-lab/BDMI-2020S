@@ -24,3 +24,10 @@
 
 [课程大作业](../Course-Projects/Course_Final_Project/BDMI-2020S-大作业-说明.md)
 
+课堂作业：20 
+
+考勤：20分
+
+测试：10分
+
+大作业：50分
