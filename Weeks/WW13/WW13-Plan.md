@@ -12,3 +12,6 @@ Bring Your Laptop and smart phone  to Class.
 | 5      |               分组与选题               |   lecture   |   CZ&TAs  |   20-30 min   |
 | 6      |    课程小结，[展望下节课](../WW14/WW14-Plan.md)    |             |      CZ       |      |
 
+
+
+大家注意：勿上传``有版权``的课程参考资料。
