@@ -17,3 +17,7 @@ Bring Your Laptop and smart phone  to Class.
 |   8   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
 |   9   | 课程小结，[展望下节课](../WW12/WW12-Plan.md)  |     |  CZ |   |
 
+
+
+大家注意：勿上传``有版权``的课程参考资料。
+
