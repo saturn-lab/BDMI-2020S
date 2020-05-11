@@ -8,6 +8,7 @@ Bring Your Laptop and smart phone  to Class.
 | 1      | [回顾上节课](../WW12/WW12-Plan.md)，介绍本节课内容 |    讲课     |      CZ       |      |
 | 2      |               昇腾AI处理器：应用实践               |   lecture   |               |      |
 | 3      |               昇腾AI处理器：编程指南               |   lecture   |               |      |
-| 3      |               昇腾AI处理器：应用实践               |  practice   | 需要linux环境 |      |
-| 4      |    课程小结，[展望下节课](../WW14/WW14-Plan.md)    |             |      CZ       |      |
+| 4      |               昇腾AI处理器：应用实践               |  practice   | 需要linux环境 |      |
+| 5      |               分组与选题               |   lecture   |   CZ&TAs  |   20-30 min   |
+| 6      |    课程小结，[展望下节课](../WW14/WW14-Plan.md)    |             |      CZ       |      |
 
