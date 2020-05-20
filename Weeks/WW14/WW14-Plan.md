@@ -7,7 +7,7 @@ Bring Your Laptop and smart phone  to Class.
 |   0       |  课程签到     |  logistics   |     xie     |        |
 |   1       |  [回顾上节课](../WW13/WW13-Plan.md)，介绍本节课内容     |  简述    |     CZ     |        |
 |   2       |  机器学习算法及其在金融科技中的应用       |   讲课   |   慧安金科 /丁帅       |    60 min      |
-|   3       |  随堂小测       |  实践  |   CZ&TAs   |  20 min    | 
-|   4       |  分组与课程项目讨论       |  讲课  |   CZ&TAs   |  45 min    | 
+|   3       |  随堂小测       |  实践  |   Xie   |  20 min    | 
+|   4       |  分组与课程项目讨论       |  讨论  |   Huang    |  45 min    | 
 |   5       |  课程小结，[展望下节课](../WW15/WW15-Plan.md)  |  简述   |  CZ |   |
 
