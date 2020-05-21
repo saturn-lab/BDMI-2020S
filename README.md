@@ -2,9 +2,10 @@
 
 ## 教学计划 
 
-[Schedule](Schedule/Schedule-BDMI-2020S.md)
+**每周教学总安排：**
 
-https://github.com/saturn-lab/BDMI-2020Spring/wiki
+[总体教学安排](Schedule/Schedule-BDMI-2020S.md)
+
 
 ## 教师与助教
 
@@ -12,9 +13,6 @@ Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、
 
 TAs: Rui Xie, [Shiyu Huang](https://huangshiyu13.github.io/)
 
-## 教学内容
-
-[总体教学安排](Schedule/Schedule-BDMI-2020S.md)
 
 ## 目录结构
 
