@@ -20,7 +20,7 @@
 
 （3）完成课程的2个动手作业：
 
-[helmet-recog](../helmet-recog/easyHelmet.md)和[speech-recog](../sound_command24/speech_command24.md)，选择其一。
+[helmet-recog](../helmet-recog/easyHelmet.md)和[speech-recog](../speech_command24/speech_command24.md)，选择其一。
 
 （4）在此基础上，采用[TensorFlow-Lite](https://tensorflow.google.cn/lite/examples?hl=zh_cn)，对模型进行优化，能够部署演示并能说明工作原理的；详见：[tensorflow-lite](https://tensorflow.google.cn/lite/guide?hl=zh_cn)
 
