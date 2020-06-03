@@ -4,7 +4,7 @@ In a semester, this course explores the fudemental area of DMDL.
 
 The core questions in this course are about how data system works and machine intelliegnce is implemented. 
 
-We bring stuents to frontier of this area and make connection with peoples who advances this area.
+We bring students to frontier of this area and make connection with peoples who advances this area.
 
 
 
