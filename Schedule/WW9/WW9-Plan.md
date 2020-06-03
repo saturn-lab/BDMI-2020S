@@ -15,3 +15,6 @@ Bring Your Laptop to Class.
 |  9  |  课程小结，[展望下一节课](../../Weeks/WW10/WW10-Plan.md)   |   讲课    |     CZ&TAs     |       |
 
 
+
+
+大家注意：勿上传``有版权``的课程参考资料。
