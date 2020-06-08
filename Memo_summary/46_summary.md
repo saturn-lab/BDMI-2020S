@@ -12,4 +12,3 @@
 12. [第十二次课程小结](../Study-Memo/46-Day12.md)
 13. [第十三次课程小结](../Study-Memo/46-Day13.md)
 14. [第十四次课程小结](../Study-Memo/46-Day14.md)
-15. [第十五次课程小结](../Study-Memo/46-Day15.md)
