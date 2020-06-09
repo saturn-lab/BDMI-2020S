@@ -26,3 +26,4 @@ https://ebookcentral.proquest.com/lib/tsinghua/home.action
 - Data Structures and Algorithm Analysis in C++ (Fourth Edition) （中文名：数据结构与算法分析C++描述）
 - Algorithm Design, by  Kleinberg and Tardos
 - Algorithms Illuminated, by Tim Roughgarden 
+- Grokking Algorithms, by Aditya Bhargava
