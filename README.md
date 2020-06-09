@@ -16,15 +16,14 @@ TAs: Rui Xie, [Shiyu Huang](https://huangshiyu13.github.io/)
 
 ## 目录结构
 
-- Computing/ 计算基础与python学习
-- Logistics/ 签到与团队建设
-- ML-BD-Algo 算法-数据管理-机器学习材料（思路）
-- Schedule 前9周教学安排
-- Weeks/WWn/ 后9周教学安排，第n次课的课件和参考代码
-- Course-Projects/ 课程实践任务
-- Readings/ 课程课外阅读的论文材料
-- Study-Memo/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
-
+- [Computing](Computing)/ Python-算法-数据管理-机器学习材料 
+- [Logistics](Logistics)/ 签到与团队建设
+- [Part1-Schedule](Part1-Schedule)/WWn/  前9周教学安排
+- [Part2-Weeks](Part2-Weeks)/WWn/ 后9周教学安排，第n次课的课件和参考代码
+- [Course-Projects](Course-Projects)/ 课程实践任务
+- [Readings](Readings)/ 课程课外阅读的论文材料
+- [Study-Memo](Study-Memo)/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
+- [Memo-Summary](Memo-Summary)/ 同学们的课程小结-汇总提纲
 
 ### 语言环境要求：
 
