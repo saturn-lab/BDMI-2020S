@@ -4,7 +4,7 @@
 
 **每周教学总安排：**
 
-[总体教学安排](Schedule/Schedule-BDMI-2020S.md)
+[总体教学安排](Schedule-BDMI-2020S.md)
 
 
 ## 教师与助教
