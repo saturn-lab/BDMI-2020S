@@ -1,6 +1,9 @@
 [第一堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day1.md)
+
 [第二堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day2.md)
+
 [第三堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day3.md)
+
 [第四堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day4.md)
 [第五堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day5.md)
 [第六堂课小结](https://github.com/saturn-lab/BDMI-2020S/blob/master/Study-Memo/7-Day6.md)
