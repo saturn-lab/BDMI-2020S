@@ -10,7 +10,7 @@
 
 # table of Content
 
-1. Principle of computing
+1. Principle of computing with Python
 
 2. Algorithm and data structure
 
