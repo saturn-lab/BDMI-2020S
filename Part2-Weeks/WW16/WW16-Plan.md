@@ -9,7 +9,7 @@ Bring Your Laptop and smart phone  to Class.
 |   2       |  课程回顾      |   all  |         |     | 
 |   2       |  课程展示      |   all  |         |     | 
 |   3       |  课程报告      |   all  |         |     | 
-|   4       |  课程小结，[课程总结](../WW16/Course-Summary-2019A.md)       |     |  CZ |   |
+|   4       |  课程小结，[课程总结](../../Memo-Summary)       |     |  CZ |   |
 
 
 ``每个终点也是起点``
