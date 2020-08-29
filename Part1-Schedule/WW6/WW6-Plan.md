@@ -19,7 +19,7 @@ Note: Bring Your Laptop  and Smart Phone to Class.
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
 | :---  |  :----:  | :----:  |    :----:    | ---: |
 |   8   |  Review of Homework 1 [(Solution)](../../Course-Projects/Course_Project_2/hw1_solution.py)    |     |  huang  |    |
-|   9   | 课程小结，[展望下节课](../WW8/WW8-Plan.md) |      | CZ   |      |
+|   9   | 课程小结，[展望下节课](../WW7/WW7-Plan.md) |      | CZ   |      |
 
 
 
